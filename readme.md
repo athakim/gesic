@@ -2,7 +2,7 @@
 
 ## About GesIc
 
-GesIc est une application web  développée ave Laravel pour la gestion des IC.
+GesIc est une application web  développée avec Laravel pour la gestion des IC.
 
 ## License
 
